@@ -11,7 +11,6 @@ C:\Users\onur.aktas\source\repos\TestApi\Api\obj\Debug\net6.0\Api.GeneratedMSBui
 C:\Users\onur.aktas\source\repos\TestApi\Api\obj\Debug\net6.0\Api.AssemblyInfoInputs.cache
 C:\Users\onur.aktas\source\repos\TestApi\Api\obj\Debug\net6.0\Api.AssemblyInfo.cs
 C:\Users\onur.aktas\source\repos\TestApi\Api\obj\Debug\net6.0\Api.csproj.CoreCompileInputs.cache
-C:\Users\onur.aktas\source\repos\TestApi\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\onur.aktas\source\repos\TestApi\Api\obj\Debug\net6.0\Api.RazorAssemblyInfo.cache
 C:\Users\onur.aktas\source\repos\TestApi\Api\obj\Debug\net6.0\Api.RazorAssemblyInfo.cs
 C:\Users\onur.aktas\source\repos\TestApi\Api\obj\Debug\net6.0\staticwebassets.build.json
