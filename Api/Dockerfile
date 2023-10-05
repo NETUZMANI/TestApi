@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/dotnet/core/sdk:3.1 AS build-env
+FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build-env
 WORKDIR /app
 
 COPY *.csproj .
@@ -9,7 +9,7 @@ COPY . ./
 
 RUN dotnet publish --no-restore -c Release -o out
 
-FROM mcr.microsoft.com/dotnet/core/asp.net:3.1
+FROM mcr.microsoft.com/dotnet/aspnet:6.0
 WORKDIR /app
 COPY  --from=build-env /pp/out .
 ENTRYPOINT ["dotnet","Api.dll"]
