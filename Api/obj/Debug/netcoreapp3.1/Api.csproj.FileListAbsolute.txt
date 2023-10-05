@@ -1,7 +1,0 @@
-C:\Users\onur.aktas\source\repos\TestApi\Api\obj\Debug\netcoreapp3.1\Api.csproj.AssemblyReference.cache
-C:\Users\onur.aktas\source\repos\TestApi\Api\obj\Debug\netcoreapp3.1\Api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\onur.aktas\source\repos\TestApi\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfoInputs.cache
-C:\Users\onur.aktas\source\repos\TestApi\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfo.cs
-C:\Users\onur.aktas\source\repos\TestApi\Api\obj\Debug\netcoreapp3.1\Api.csproj.CoreCompileInputs.cache
-C:\Users\onur.aktas\source\repos\TestApi\Api\obj\Debug\netcoreapp3.1\Api.RazorAssemblyInfo.cache
-C:\Users\onur.aktas\source\repos\TestApi\Api\obj\Debug\netcoreapp3.1\Api.RazorAssemblyInfo.cs
